@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "HELLO DUSAN";
         echo "ANOTHER ECho";
+        echo "Dusan BRO";
         ?>
     </body>
 </html>
