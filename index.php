@@ -12,8 +12,6 @@ and open the template in the editor.
     <body>
         <?php
         echo "HELLO DUSAN";
-        echo "ANOTHER ECho";
-        echo "Dusan BRO";
         ?>
     </body>
 </html>
