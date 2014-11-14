@@ -1,3 +1,6 @@
+povlacenje promena sa git repository : 
+git pull <remote(u mom slucaju origin)> master
+
 komande za upotrebu commitovanje preko git-bash :
 
 git add .
