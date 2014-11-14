@@ -1,0 +1,18 @@
+povlacenje promena sa git repository : 
+git pull <remote(u mom slucaju origin)> master
+
+komande za upotrebu commitovanje preko git-bash :
+
+git add .
+git commit -m "<opis commita>"
+git pull origin master - ovo je opciono, ako ima sta da povuce sa git-a sto je radjeno na drugom kompu
+git push origin master - prebacivanje commita u online git repository !!!
+
+
+setovanje remote url-a repository - mesto na kom ce se cuvati promene :
+git remote -v 
+git remote set-url origin https://github.com/<username>/<repository>
+
+dodavanje novog remote i setovanje url-a kome ce da pripada
+git remote add origin https://github.com/<username>/<repository>
+
